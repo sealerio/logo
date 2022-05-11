@@ -1,2 +1,3 @@
-# logo
-sealer logos
+# sealer logo
+
+![](./sealer.png)
